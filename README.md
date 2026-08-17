@@ -116,10 +116,4 @@ Each client review was individually scored on a **−1 to +1 sentiment scale** (
 
 ---
 
-## A note before publishing this externally
 
-This dataset contains real, specific client complaints — including references to individual properties and unresolved delivery disputes. Before this goes on a public GitHub repo or portfolio site, it's worth either anonymizing property-specific references further and presenting the analysis at the aggregate/category level (which is what this README already does), or confirming internally that sharing this level of client feedback detail externally is fine. The methodology and insights here stand on their own without needing the verbatim complaint text to be public.
-
-## Methodology Note
-
-Sentiment scoring used a rule-based rubric (−1 to +1, in 0.1 increments) rather than a raw NLP model output — worth stating explicitly in any published version, since it affects how the scores should be interpreted (as a structured coding scheme rather than a continuous model confidence score).

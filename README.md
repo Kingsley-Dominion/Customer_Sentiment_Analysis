@@ -14,6 +14,7 @@ The category mix has shifted too — in the executive summary, *Delivery & Timel
 This isn't a criticism of the analysis — it's exactly what happens when a source log keeps growing (84 → 103 reviews) but the summary dashboard built on top of it doesn't get refreshed. It's flagged here because **the Sentiment Dashboard currently overstates how positive client sentiment is** — anyone glancing at just that sheet would walk away with a materially rosier picture than the underlying data supports. Worth refreshing the pivot before this workbook informs any decision, or before it's published.
 
 Everything below uses the **full, current 103-review dataset** from Review Analysis as the source of truth, alongside the Survey Dashboard's independent structured-survey findings.
+![Customer Sentiment Dashboard](images2/customer_sentiment.png)
 
 ---
 
